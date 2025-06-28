@@ -18,12 +18,6 @@ Built using **Python**, **Streamlit**, and the **Gemini API**, this project simu
 
 ---
 
-## 📸 Demo
-
-![Frontend AI Chat Screenshot](https://github.com/yourusername/your-repo/assets/your-image-id)
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
